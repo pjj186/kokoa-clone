@@ -1,4 +1,4 @@
 # KoKoa Clone
 
 KaKao Talk Clone.
-use HTML & CSS.
+use only HTML & CSS.
